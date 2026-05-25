@@ -11,6 +11,7 @@ public class Plugin : BaseUnityPlugin
 	public const string ModGUID = "zopthemop.nostaminatools";
 	public const string ModName = "No Stamina Tools";
 	public const string ModVersion = "1.0.0";
+	public const string ModDescription = "Remove stamina cost of Hammer, Hoe and Cultivator";
 
     private void Awake()
     {

@@ -1,0 +1,7 @@
+{
+  "name": "NoStaminaTools",
+  "description": "Remove stamina cost of Hammer, Hoe and Cultivator",
+  "version_number": "1.0.0",
+  "dependencies": [],
+  "website_url": "https://github.com/zopthemop/valheim-nostaminatools"
+}
